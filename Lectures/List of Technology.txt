@@ -1,0 +1,5 @@
+L1=> 
+L2=> HDFS, Parquet, Avro
+L3=> Flume, Scoop, Kafka, ksqlDB, Kafka Connect
+L4=> Spark (Historical Data), Spark sql, Spark Streaming
+L5=> Map Reduce, Hive and more*
